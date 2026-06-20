@@ -1,5 +1,11 @@
 # 🛒 E-Commerce REST API
 
+\# Intern Details
+
+\- \*\*Intern ID:\*\* CTTS095
+
+\- \*\*Name:\*\* Nandini Gupta
+
 A **production-ready** Spring Boot 3 E-Commerce Backend API with JWT authentication, role-based access control, and full CRUD operations.
 
 ---
